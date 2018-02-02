@@ -1,0 +1,23 @@
+{
+  "short_name": "AirHorner",
+  "name": "Kinlan's AirHorner of Infamy",
+  "icons": [
+    {
+      "src": "static/images/mario.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "static/images/mario.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "static/images/mario.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?launcher=true",
+  "display": "standalone"
+}
